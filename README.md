@@ -40,10 +40,3 @@ Run scripts:
 ./script4.sh
 ./script5.sh
 
-## Output Files
-
-- installed_packages.txt
-- outdated_packages.txt
-- open_ports.txt
-- running_services.txt
-- system_info.txt
