@@ -1,8 +1,8 @@
 # Open Source Audit Project
 
 ## Student Details
-Name: Shreya Sharma  
-Roll Number: 24BCE10346  
+Name: Shreyanshi Tiwari  
+Roll Number: 24BCE10541  
 
 ## Software Chosen
 Git (Version Control System)
