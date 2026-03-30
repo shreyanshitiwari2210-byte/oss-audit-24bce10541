@@ -30,5 +30,20 @@ Creates a personalized open-source statement.
 ## How to Run
 
 ```bash
-chmod +x script1.sh
+Make scripts executable:
+chmod +x *.sh
+
+Run scripts:
 ./script1.sh
+./script2.sh
+./script3.sh
+./script4.sh
+./script5.sh
+
+## Output Files
+
+- installed_packages.txt
+- outdated_packages.txt
+- open_ports.txt
+- running_services.txt
+- system_info.txt
